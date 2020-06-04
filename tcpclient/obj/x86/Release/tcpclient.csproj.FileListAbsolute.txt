@@ -1,0 +1,11 @@
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\bin\Release\tcpclient.exe.config
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\bin\Release\tcpclient.exe
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\bin\Release\tcpclient.pdb
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.TcpClientForm.resources
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.Properties.Resources.resources
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.csproj.GenerateResource.Cache
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.exe
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\bin\Release\tcpclient.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Release\tcpclient.pdb

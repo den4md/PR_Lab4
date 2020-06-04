@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\bin\Debug\tcpclient.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\bin\Debug\tcpclient.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\bin\Debug\tcpclient.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.TcpClientForm.resources
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpclient\obj\x86\Debug\tcpclient.pdb

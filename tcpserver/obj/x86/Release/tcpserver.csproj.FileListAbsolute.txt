@@ -1,0 +1,12 @@
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\bin\Release\tcpserver.exe.config
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\bin\Release\tcpserver.exe
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\bin\Release\tcpserver.pdb
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.TcpServerForm.resources
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.Properties.Resources.resources
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.csproj.GenerateResource.Cache
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.exe
+C:\Users\Vlada\Downloads\tcpclientservertextmessage_vs11\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\bin\Release\tcpserver.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Release\tcpserver.pdb

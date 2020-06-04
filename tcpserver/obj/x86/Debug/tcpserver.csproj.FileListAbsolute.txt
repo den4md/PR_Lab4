@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\bin\Debug\tcpserver.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Debug\tcpserver.TcpServerForm.resources
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Debug\tcpserver.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Debug\tcpserver.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Debug\tcpserver.exe
+C:\Users\User\Desktop\3 курс\PR\Lab4\tcpclientservertextmessage\tcpserver\obj\x86\Debug\tcpserver.pdb
